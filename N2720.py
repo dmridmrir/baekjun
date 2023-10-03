@@ -30,8 +30,6 @@ for i in range(0,T):
     while C>=P:
         C -= P
         count += 1
-        print(C)
-        print(P)
     coin.append(count)
     print(coin)
 
