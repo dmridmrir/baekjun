@@ -19,7 +19,6 @@ public class N2720 {
 		for (int i=0; i < T; i++) {
 			System.out.println("잔돈 입력 : ");
 			int C = scanner.nextInt();
-			System.out.println(C);
 			
 			while(C > Q) {
 				C -= Q;
